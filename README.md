@@ -5,7 +5,7 @@ I'm currently pursuing a degree in Informatics at Tanjungpura University, and my
 </p>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## Programming Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -41,7 +41,7 @@ I'm currently pursuing a degree in Informatics at Tanjungpura University, and my
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=shidiqfzr&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=shidiqfzr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shidiqfzr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shidiqfzr&theme=tokyonight&hide_border=false)
