@@ -43,5 +43,5 @@ I'm currently pursuing a degree in Informatics at Tanjungpura University, and my
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shidiqfzr&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=shidiqfzr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) <br>
+![](https://github-readme-stats.vercel.app/api?username=shidiqfzr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shidiqfzr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
