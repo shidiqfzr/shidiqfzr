@@ -1,7 +1,7 @@
 ## Hi everyone, I'm Achmad Shidiq Nur Fazar👋<br>
 
 <p align="justify">
-I'm currently pursuing a degree in Informatics at Tanjungpura University, and my passion for all things tech runs deep. I'm a curious, problem-solving enthusiast who's always on the lookout for new challenges and learning opportunities. My journey has led me through a wide range of fields from <b>data science and machine learning</b> to <b>backend and frontend development</b>. I thrive in research and tech competitions, where the fast-paced environment pushes me to learn, adapt, and innovate. Every day is a chance to improve, whether I'm mastering a new programming language, exploring cutting-edge technologies, or refining my approach to solving problems. I love collaborating on projects, building cool stuff, and finding creative solutions.
+I'm currently pursuing a degree in Computer Science at Tanjungpura University, and my passion for all things tech runs deep. I'm a curious, problem-solving enthusiast who's always on the lookout for new challenges and learning opportunities. My journey has led me through a wide range of fields from <b>data science and machine learning</b> to <b>backend and frontend development</b>. I thrive in research and tech competitions, where the fast-paced environment pushes me to learn, adapt, and innovate. Every day is a chance to improve, whether I'm mastering a new programming language, exploring cutting-edge technologies, or refining my approach to solving problems. I love collaborating on projects, building cool stuff, and finding creative solutions.
 </p>
 
 
